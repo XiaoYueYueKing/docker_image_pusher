@@ -4,3 +4,4 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+ghcr.io/sugarforever/peanut-shell:9ac859fa4d2ada04aaab0f83de14d48ae370f3f8
